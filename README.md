@@ -66,3 +66,5 @@ it may be due to nearing of retirement or being in a stable or long term role.
 
 ### CONCLUSION
 In conclusion, the analysis highlights that factors such as job satisfaction, competitive compensation, career growth, and work life balance are crucial to retaining employees. By focusing on these areas, the organization can effectively reduce turnover and enhance overall employee engagement and performance
+
+you can find this dashboard on my tableau public too,just click this link to reach there EMPLOYEE_RETENTION_ANALYSIS_LINK:https://public.tableau.com/views/TABLEAUDASHBOARD-FINAL_/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
